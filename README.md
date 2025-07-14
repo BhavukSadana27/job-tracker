@@ -28,8 +28,6 @@ git clone https://github.com/BhavukSadana27/job-tracker.git
 cd job-tracker
 npm install
 
-
 Run locally:
-```bash
 npm start
 
